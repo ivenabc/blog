@@ -5,4 +5,5 @@ theme = "hyde"
 
 
 [params]
+    staticDir="static"
     themeColor="theme-base-09"
