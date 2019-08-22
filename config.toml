@@ -1,0 +1,8 @@
+baseURL = "https://www.hellobin.top/"
+languageCode = "zh-CN"
+title = "兔儿跑"
+theme = "hyde"
+
+
+[params]
+    themeColor="theme-base-09"
