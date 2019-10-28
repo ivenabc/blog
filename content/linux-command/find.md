@@ -2,6 +2,8 @@
 title: "Find"
 date: 2019-10-12T10:19:35+08:00
 draft: true
+tags: ["linux-command"]
+categories: ["Linux"]
 ---
 
 ### 根据文件名或正则表达式进行搜索
