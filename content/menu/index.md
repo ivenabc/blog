@@ -11,6 +11,7 @@ bookMenuLevels: 0
    - [3rd]({{< relref "/docs/example/2nd/3rd" >}})
      - [4th]({{< relref "/docs/example/2nd/3rd/4th" >}})  
  - **Shortcodes**
+ - [**PostgreSQL**]({{< relref "/postgresql" >}})  
  - [Buttons]({{< relref "/docs/shortcodes/buttons" >}})
  - [Columns]({{< relref "/docs/shortcodes/columns" >}})
  - [Expand]({{< relref "/docs/shortcodes/expand" >}})
@@ -19,3 +20,4 @@ bookMenuLevels: 0
  - [Mermaid]({{< relref "/docs/shortcodes/mermaid" >}})
  - [Tabs]({{< relref "/docs/shortcodes/tabs" >}})  
  - [**Blog**]({{< relref "/posts" >}})
+
