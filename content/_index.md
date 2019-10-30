@@ -1,79 +1,100 @@
 ---
-title: Introduction
+title: Hello World!
 type: docs
+bookToc: false
 ---
 
-# Acerbo datus maxime
 
-{{< columns >}}
-## Astris ipse furtiva
+[献给还是小男孩时的列翁.维尔特](http://www.eywedu.net/xiaowangzi/index.htm)
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies  
-$$(AB)^{T} =B^{T}A^{T}$$
-<--->
-
-## Suis quot vota
-
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
+当我还只有六岁的时候，在一本描写原始森林的名叫《真实的故事》的书中，看到了一副精彩的插画，画的是一条蟒蛇正在吞食一只大野兽。页头上就是那副画的摹本。
 
 
-## Tempora nisi nunc
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+　　这本书中写道：“这些蟒蛇把它们的猎获物不加咀嚼地囫囵吞下，尔后就不能再动弹了；它们就在长长的六个月的睡眠中消化这些食物。”当时，我对丛林中的奇遇想得很多，于是，我也用彩色铅笔画出了我的第一副图画。我的第一号作品。它是这样的：
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-    public_keyboard_docking += error.controller_gibibyte_plug.ip(4,
-            asciiPetaflops, software(supercomputer_compatible_status + 4));
-    dynamic_disk.indexModeLaptop = bufferTftpReality;
-    var export_vlog_sequence = trinitron_flowchart + supercomputer_cluster_rj(
-            -1, toolbar_powerpoint_query, -2 / multiprocessing_impression);
 
-## Locis suis novi cum suoque decidit eadem
+　　我把我的这副杰作拿给大人看，我问他们我的画是不是叫他们害怕。他们回答我说：“一顶帽子有什么可怕的？”我画的不是帽子，是一条巨蟒在消化着一头大象。于是我又把巨蟒肚子里的情况画了出来，以便让大人们能够看懂。这些大人总是需要解释。我的第二号作品是这样的：
 
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab? Venit spes
-versus finis sermonibus patefecit murum nec est sine oculis. _Ille_ inmota
-macies domoque caelestia cadit tantummodo scelus procul, corde!
 
-1. Dolentem capi parte rostro alvum habentem pudor
-2. Fulgentia sanguine paret
-3. E punior consurgit lentus
-4. Vox hasta eras micantes
 
-## Facibus pharetrae indetonsusque indulsit sic incurrite foliis
+　　大人们劝我把这些画着开着肚皮的，或闭上肚皮的蟒蛇的图画放在一边，还是把兴趣放在地理、历史、算术、语法上。就这样，在六岁的那年，我就放弃了当画家这一美好的职业。我的第一号、第二号作品的不成功，使我泄了气。这些大人们，靠他们自己什么也弄不懂，还得老是不断地给他们作解释。这真叫孩子们腻味。后来，我只好选择了另外一个职业，我学会了开飞机，世界各地差不多都飞到过。的确，地理学帮了我很大的忙。我一眼就能分辨出中国和亚里桑那。要是夜里迷失了航向，这是很有用的。这样，在我的生活中，我跟许多严肃的人有过很多的接触。我在大人们中间生活过很长时间。我仔细地观察过他们，但这并没有使我对他们的看法有多大的改变。
 
-Nefandam et prisci palmas! Blandita cutis flectitur montis macies, te _nati_
-Latiis; turbaque inferias. Virginis tibi peracta avidusque facies caper nec, e
-at ademptae, mira.
+　　当我遇到一个头脑看来稍微清楚的大人时，我就拿出一直保存着的我那第一号作品来测试测试他。我想知道他是否真的有理解能力。可是，得到的回答总是：“这是顶帽子。”我就不和他谈巨蟒呀，原始森林呀，或者星星之类的事。我只得迁就他们的水平，和他们谈些桥牌呀，高尔夫球呀，政治呀，领带呀这些。于是大人们就十分高兴能认识我这样一个通情达理的人。
 
-direct *= font(inputScareware(sliHome), crossplatform.byte(
-        ppl_encryption.excel_e_rte(integratedModelModifier), timeVirtual,
-        floating_speakers.media_printer(us, yahoo, primaryPhp)));
-friendly_metal_flatbed(cd, isoPrimaryStorage(reader), dmaMirrored);
-if (parse_flash_cron.metalGif(1, adServiceDevice, utility)) {
-    adf -= operation_cdma_samba;
-    imapGif.switch += torrent;
-} else {
-    pmu.disk_captcha = digital_ppp_pci + recursionTransistor(5, dram);
-    ajax_service += grayscalePythonLock;
-    google_scroll_capacity = ftp + engine_dslam_sidebar / tape - 1;
-}
-drive_rw = zipTftp;
-var suffix = software_router_extension.dimm_ddr(-5,
-        kernel_digital_minisite);
+　我就这样孤独地生活着，没有一个能真正谈得来的人，一直到六年前在撒哈拉沙漠上发生了那次故障。我的发动机里有个东西损坏了。当时由于我既没有带机械师也没有带旅客，我就试图独自完成这个困难的维修工作。这对我来说是个生与死的问题。我随身带的水只够饮用一星期。
 
-Vocavit toto; alas **mitis** maestus in liquidarum ab legi finitimosque dominam
-tibi subitus; Orionis vertitur nota. Currere alti etiam seroque cernitis
-innumeris miraturus amplectique collo sustinet quemque! Litora ante turba?
+　　第一天晚上我就睡在这远离人间烟火的大沙漠上。我比大海中伏在小木排上的遇难者还要孤独得多。而在第二天拂晓，当一个奇怪的小声音叫醒我的时候，你们可以想见我当时是多么吃惊。这小小的声音说道：
+
+　　“请你给我画一只羊，好吗？”
+
+　　“啊！”
+
+　　“给我画一只羊……”
+
+　　我象是受到惊雷轰击一般，一下子就站立起来。我使劲地揉了揉眼睛，仔细地看了看。我看见一个十分奇怪的小家伙严肃地朝我凝眸望着。这是后来我给他画出来的最好的一副画像。可是，我的画当然要比他本人的模样逊色得多。这不是我的过错。六岁时，大人们使我对我的画家生涯失去了勇气，除了画过开着肚皮和闭着肚皮的蟒蛇，后来再没有学过画。
+
+
+
+　　我惊奇地睁大着眼睛看着这突然出现的小家伙。你们不要忘记，我当时处在远离人烟千里之外的地方。而这个小家伙给我的印象是，他既不象迷了路的样子，也没有半点疲乏、饥渴、惧怕的神情。他丝毫不象是一个迷失在旷无人烟的大沙漠中的孩子。当我在惊讶之中终于又能说出话来的时候，对他说道：
+
+　　“唉，你在这儿干什么？”
+
+　　可是他却不慌不忙地好象有一件重要的事一般，对我重复地说道：
+
+　　“请……给我画一只羊……”
+
+　　当一种神秘的东西把你镇住的时候，你是不敢不听从它的支配的，在这旷无人烟的沙漠上，面临死亡的危险的情况下，尽管这样的举动使我感到十分荒诞，我还是掏出了一张纸和一支钢笔。这时我却又记起，我只学过地理、历史、算术和语法，就有点不大高兴地对小家伙说我不会画画。他回答我说：
+
+　　“没有关系，给我画一只羊吧！”
+
+　　因为我从来没有画过羊，我就给他重画我所仅仅会画的两副画中的那副闭着肚皮的巨蟒。
+
+　　“不，不！我不要蟒蛇，它肚子里还有一头象。”
+
+　　我听了他的话，简直目瞪口呆。他接着说：“巨蟒这东西太危险，大象又太占地方。我住的地方非常小，我需要一只羊。给我画一只羊吧。”
+
+　　我就给他画了。
+
+
+
+　　他专心地看着，随后又说：
+
+　　“我不要，这只羊已经病得很重了。给我重新画一只。”
+
+　　我又画了起来。
+
+
+
+　　我的这位朋友天真可爱地笑了，并且客气地拒绝道：“你看，你画的不是小羊，是头公羊，还有犄角呢。”
+
+　　于是我又重新画了一张。
+
+
+
+　　这副画同前几副一样又被拒绝了。
+
+　　“这一只太老了。我想要一只能活得长的羊。”
+
+　　我不耐烦了。因为我急于要检修发动机，于是就草草画了这张画，并且匆匆地对他说道：
+
+　　“这是一只箱子，你要的羊就在里面。”
+
+
+
+　　这时我十分惊奇地看到我的这位小评判员喜笑颜开。他说：
+
+　　“这正是我想要的，……你说这只羊需要很多草吗？”
+
+　　“为什么问这个呢？”
+
+　　“因为我那里地方非常小……”
+
+　　“我给你画的是一只很小的小羊，地方小也够喂养它的。”
+
+　　他把脑袋靠近这张画。
+
+　　“并不象你说的那么小……瞧！它睡着了……”
+
+　　就这样，我认识了小王子。
+

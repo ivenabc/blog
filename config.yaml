@@ -28,16 +28,19 @@ params:
   # (Optional, default 6) Set how many table of contents levels to be showed on page.
   # Use false to hide ToC, note that 0 will default to 6 (https://gohugo.io/functions/default/)
   # You can also specify this parameter per page in front matter
+  #  文章得目录层级 在右侧显示， 默认是6个层级都显示
   BookToC: 3
 
   # (Optional, default none) Set the path to a logo for the book. If the logo is
   # /static/logo.png then the path would be logo.png
   # BookLogo: /logo.png
+  
+  BookMenuBundle: /menu/home.md
 
-  # (Optional, default none) Set leaf bundle to render as side menu
-  # When not specified file structure and weights will be used
-  BookMenuBundle: /menu
+  # Postgresql 菜单
+  MenuPostgreSQLBundle: /menu/postgresql.md
 
+  
   # (Optional, default docs) Specify section of content to render as menu
   # You can also set value to '*' to render all sections to menu
 #   BookSection: posts
@@ -62,5 +65,5 @@ params:
   # (Optional, default none) Search config for flexsearch index.
   # Read documentation at https://github.com/nextapps-de/flexsearch#usage. By default 'balance' preset is used.
   # This option allows to set specific configs for languages support. Must be valid JavaScript object.
-  BookSearchConfig: | 
+  BookSearchConfig: |  
     { cache: true }
