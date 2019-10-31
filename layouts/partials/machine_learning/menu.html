@@ -1,0 +1,22 @@
+<nav>
+{{ partial "machine_learning/brand" . }}
+{{ partial "machine_learning/search" . }}
+
+{{ if .Site.Params.MenuMachineLearningBundle }}
+    {{ partial "machine_learning/menu-bundle" . }}
+{{ else }}
+    {{ partial "machine_learning/menu-filetree" . }}
+{{ end }}
+
+</nav>
+
+<!-- Restore menu position as soon as possible to avoid flickering -->
+<script>
+(function() {
+  var menu = document.querySelector("aside.book-menu nav");
+  addEventListener("beforeunload", function(event) {
+    localStorage.setItem("menu.scrollTop", menu.scrollTop);
+  });
+  menu.scrollTop = localStorage.getItem("menu.scrollTop");
+})();
+</script>
