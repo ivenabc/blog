@@ -51,7 +51,7 @@ params:
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Path must point to 'content' directory of repo.
-  BookEditPath: edit/master/content
+  # BookEditPath: edit/master/content
 
   # Configure the date format used on the pages
   # - In git information
@@ -60,7 +60,7 @@ params:
 
   # (Optional, default true) Enables search function with lunr.js,
   # Index is built on fly, therefore it might slowdown your website.
-  BookSearch: true
+  BookSearch: false
 
   # (Optional, default none) Search config for flexsearch index.
   # Read documentation at https://github.com/nextapps-de/flexsearch#usage. By default 'balance' preset is used.
