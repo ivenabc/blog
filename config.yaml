@@ -40,7 +40,8 @@ params:
   MenuPostgreSQLBundle: /menu/postgresql.md
   # MachineLearning 菜单
   MenuMachineLearningBundle: /menu/machine_learning.md
-  
+  # Python 菜单
+  MenuPythonBundle: /menu/python.md
   # (Optional, default docs) Specify section of content to render as menu
   # You can also set value to '*' to render all sections to menu
 #   BookSection: posts
