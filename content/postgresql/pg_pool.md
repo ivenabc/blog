@@ -1,3 +1,11 @@
+---
+title: "PGpool-II Watch dod(看门狗)"
+date: 2019-11-15
+author: "Iven"
+draft: false
+weight: 101
+---
+
 sudo yum install http://www.pgpool.net/yum/rpms/4.1/redhat/rhel-7-x86_64/pgpool-II-release-4.1-1.noarch.rpm
 
 sudo yum install pgpool-II-pg11 #pg11 依赖 pg11
