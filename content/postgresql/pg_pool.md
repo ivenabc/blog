@@ -121,16 +121,46 @@ https://segmentfault.com/a/1190000020850773#articleHeader10
 
 https://www.cnblogs.com/huobi/p/10712427.html
 
-pcp_node_info --verbose -h 10.250.131.61 -p 1528 -U pgpool 0
-pcp_watchdog_info --verbose -h 10.250.131.61  -p 1528 -U pgpool
-pcp_attach_node -n 0 -p 1528 -h 10.250.131.61  -U pgpool
-psql -h 10.250.131.61 -p 1526 postgres postgres
+pcp_node_info --verbose -h 10.250.131.67 -p 1528 -U pgpool 0
+pcp_watchdog_info --verbose -h 10.250.131.67  -p 1528 -U pgpool
+pcp_attach_node -n 0 -p 1528 -h 10.250.131.67  -U pgpool
+psql -h 10.250.131.67 -p 1526 postgres postgres
 pg_basebackup -D data -Fp -Xs -v -P -h db09 -p 1525 -U repuser
 pg_rewind --target-pgdata=data/ --source-server='host=10.250.131.58 port=1525 user=postgres dbname=postgres password=Evolve123456' 
  /usr/bin/sudo /sbin/ip addr add $_IP_$/24 dev ens192 label ens192:1
  /usr/bin/sudo /sbin/ip addr del $_IP_$/24 dev ens192
 
-10.250.131.61
+10.250.131.67
 
-/usr/bin/sudo /sbin/ip addr add 10.250.131.61/24 dev ens192 label ens192:1
-/usr/bin/sudo /sbin/ip addr del 10.250.131.61/24 dev ens192
+/usr/bin/sudo /sbin/ip addr add 10.250.131.67/24 dev ens192 label ens192:1
+/usr/bin/sudo /sbin/ip addr del 10.250.131.67/24 dev ens192
+
+```
+shared_buffers = 8GB
+```
+
+#effective_io_concurrency = 1           # 1-1000; 0 disables prefetching
+max_worker_processes = 16               # (change requires restart)
+max_parallel_maintenance_workers = 2    # taken from max_parallel_workers
+max_parallel_workers_per_gather = 4     # taken from max_parallel_workers
+#parallel_leader_participation = on
+max_parallel_workers = 8                # maximum number of max_worker_processes that
+                                        # can be used in parallel operations
+
+
+
+最近遇到一个PgPool连接阻塞问题，PgPool刚开启是能成功连接的，过段时间就连接不上了。查看PgPool日志，启动成功，连接数据库节点成功，健康检查成功。然后怀疑是并发数过多导致阻塞。
+　　一开始，更改了pgpool.conf的max_pool,num_init_children参数然后重启，结果仍然阻塞。查资料可知：
+
+num_init_children：pgPool允许的最大并发数，默认32。
+max_pool：连接池的数量，默认4。
+pgpool需要的数据库连接数=num_init_children*max_pool；
+后检查Postgresql数据库的postgresql.conf文件的
+
+max_connections=100
+superuser_reserved_connections=3。
+pgpool的连接参数应当满足如下公式：
+
+num_init_children*max_pool<max_connections-superuser_reserved_connections
+1
+当需要pgpool支持更多的并发时，需要更改num_init_children参数，同时要检查下num_init_children*max_pool是否超过了max_connections-superuser_reserved_connections，如果超过了，可将max_connections改的更大。

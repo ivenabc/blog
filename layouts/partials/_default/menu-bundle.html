@@ -1,4 +1,4 @@
-{{ with .Site.GetPage .Site.Params.MenuPostgreSQLBundle }}
+{{ with .Site.GetPage ( printf "menu/%s.md" .Section)}}
   {{- $href := printf "href=\"%s\"" $.RelPermalink -}}
   {{- replace .Content $href (print $href "class=active") | safeHTML -}}
 {{ end }}

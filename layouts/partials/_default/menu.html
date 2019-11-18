@@ -1,11 +1,11 @@
 <nav>
-{{ partial "python/brand" . }}
-{{ partial "python/search" . }}
+{{ partial "_default/brand" . }}
+{{ partial "_default/search" . }}
 
-{{ if .Site.Params.MenuPythonBundle }}
-    {{ partial "python/menu-bundle" . }}
+{{ if .Site.Params.MenuMachineLearningBundle }}
+    {{ partial "_default/menu-bundle" . }}
 {{ else }}
-    {{ partial "python/menu-filetree" . }}
+    {{ partial "_default/menu-filetree" . }}
 {{ end }}
 
 </nav>
