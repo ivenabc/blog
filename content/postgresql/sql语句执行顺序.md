@@ -1,4 +1,12 @@
 
+---
+title: "PGpool-II Watch dod(看门狗)"
+date: 2019-11-15
+author: "Iven"
+draft: true
+weight: 101
+---
+
 ```sql
 (7)     SELECT 
 (8)     DISTINCT <select_list>

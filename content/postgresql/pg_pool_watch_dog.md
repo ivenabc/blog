@@ -2,7 +2,7 @@
 title: "PGpool-II Watch dod(看门狗)"
 date: 2019-11-15
 author: "Iven"
-draft: false
+draft: true
 weight: 101
 ---
 
