@@ -8,3 +8,4 @@ bookMenuLevels: 0
  - [set]({{< relref "/linux_command/set" >}})
  - [netstat]({{< relref "/linux_command/netstat" >}})
  - [ip]({{< relref "/linux_command/ip" >}})
+ - [grep]({{< relref "/linux_command/grep" >}})
