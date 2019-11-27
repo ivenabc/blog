@@ -9,3 +9,6 @@ bookMenuLevels: 0
  - [数据类型]({{< relref "/postgresql/数据类型" >}})
  - [用户]({{< relref "/postgresql/用户" >}})
  - [导入和导出数据]({{< relref "/postgresql/导入和导出数据" >}})
+ - [客户端服务]({{< relref "/postgresql/客户端服务" >}})
+
+
