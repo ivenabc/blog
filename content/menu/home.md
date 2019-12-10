@@ -7,3 +7,4 @@ bookMenuLevels: 0
  - [**MachineLearning**]({{< relref "/machine_learning" >}})  
  - [**Python**]({{< relref "/python" >}})  
  - [**Linux Command**]({{< relref "/linux_command" >}})  
+ - [**Golang**]({{< relref "/golang" >}})  
