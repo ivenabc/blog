@@ -1,7 +1,7 @@
 ---
 title: "Bash Set命令"
 date: 2019-11-06
-draft: false
+draft: true
 author: "Iven"
 weight: 1
 ---
