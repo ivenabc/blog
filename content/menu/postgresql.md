@@ -11,5 +11,6 @@ bookMenuLevels: 0
  - [导入和导出数据]({{< relref "/postgresql/导入和导出数据" >}})
  - [客户端服务]({{< relref "/postgresql/客户端服务" >}})
  - [SQL高级特性]({{< relref "/postgresql/SQL高级特性" >}})
+ - [并行查询]({{< relref "/postgresql/并行查询" >}})
 
 
