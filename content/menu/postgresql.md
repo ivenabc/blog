@@ -12,5 +12,6 @@ bookMenuLevels: 0
  - [客户端服务]({{< relref "/postgresql/客户端服务" >}})
  - [SQL高级特性]({{< relref "/postgresql/SQL高级特性" >}})
  - [并行查询]({{< relref "/postgresql/并行查询" >}})
+ - [事务与并发控制]({{< relref "/postgresql/事务与并发控制" >}})
 
 

@@ -164,3 +164,9 @@ pgpool的连接参数应当满足如下公式：
 num_init_children*max_pool<max_connections-superuser_reserved_connections
 1
 当需要pgpool支持更多的并发时，需要更改num_init_children参数，同时要检查下num_init_children*max_pool是否超过了max_connections-superuser_reserved_connections，如果超过了，可将max_connections改的更大。
+
+
+ node_id | hostname | port | status | lb_weight |  role   | select_cnt | load_balance_node | replication_delay | replication_state | replication_sync_state | last_status_change  
+---------+----------+------+--------+-----------+---------+------------+-------------------+-------------------+-------------------+------------------------+---------------------
+ 0       | db09     | 1525 | up     | 0.333333  | primary | 6064       | true              | 0                 |                   |                        | 2019-12-26 13:39:15
+ 1       | db10     | 1525 | down   | 0.666667  | standby | 0          | false             | 192992132955      |                   |                        | 2019-12-26 13:40:11
