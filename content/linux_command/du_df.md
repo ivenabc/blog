@@ -3,7 +3,6 @@ title: "Linux df和du"
 date: 2019-11-06
 draft: true
 author: "Iven"
-weight: 1
 ---
 
 df 和 du 是Linux中用于统计磁盘使用情况的两个重要命令。 df 是disk free的缩写， du 是disk

@@ -3,7 +3,6 @@ title: "Linux Grep 命令"
 date: 2019-11-26
 draft: false
 author: "Iven"
-weight: 1
 ---
 
 grep 命令作为Unix中用于文本搜索的神奇工具，能够接受正则表达式，生成各种格式的输出。

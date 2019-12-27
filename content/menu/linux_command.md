@@ -10,3 +10,4 @@ bookMenuLevels: 0
  - [cron]({{< relref "/linux_command/cron" >}})
  - [cut]({{< relref "/linux_command/cut" >}})
  - [sed]({{< relref "/linux_command/sed" >}})
+ - [ps]({{< relref "/linux_command/process/ps" >}})

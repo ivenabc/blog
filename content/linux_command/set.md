@@ -3,7 +3,6 @@ title: "Bash Set命令"
 date: 2019-11-06
 draft: true
 author: "Iven"
-weight: 1
 ---
 
 

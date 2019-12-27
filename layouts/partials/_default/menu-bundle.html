@@ -1,4 +1,4 @@
-{{ with .Site.GetPage ( printf "menu/%s.md" .Section)}}
+{{ with .Site.GetPage ( printf "menu/%s.md" (.Section | default "home"))}}
   {{- $href := printf "href=\"%s\"" $.RelPermalink -}}
   {{- replace .Content $href (print $href "class=active") | safeHTML -}}
 {{ end }}

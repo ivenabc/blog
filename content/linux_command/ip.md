@@ -3,7 +3,6 @@ title: "Linux IP 命令"
 date: 2019-11-19
 draft: false
 author: "Iven"
-weight: 1
 ---
 
 ip 提供了一系列管理网络的功能
