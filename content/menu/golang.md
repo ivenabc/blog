@@ -9,3 +9,4 @@ bookMenuLevels: 0
 - [Context]({{< relref "/golang/pkg_context" >}})
 - [Reflect]({{< relref "/golang/pkg_reflect" >}})
 - [Tar]({{< relref "/golang/pkg_tar" >}})
+- [IO]({{< relref "/golang/pkg_io" >}})
