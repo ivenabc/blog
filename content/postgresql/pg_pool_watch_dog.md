@@ -3,7 +3,6 @@ title: "PGpool-II Watch dod(看门狗)"
 date: 2019-11-15
 author: "Iven"
 draft: true
-weight: 101
 ---
 
 看门狗可以实现高可用性，可以实现故障转移功能。watch dog 通过相互交换信息来协调多个Pgpool-II节点。

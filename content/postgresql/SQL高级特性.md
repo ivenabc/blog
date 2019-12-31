@@ -4,7 +4,6 @@ title: "SQL高级特性"
 date: 2019-12-09
 author: "Iven"
 draft: false
-weight: 101
 ---
 
 Postgresql sql 高级特性
