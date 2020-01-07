@@ -14,3 +14,5 @@ bookMenuLevels: 0
  - [cut]({{< relref "/linux_command/cut" >}})
  - [sed]({{< relref "/linux_command/sed" >}})
  - [ps]({{< relref "/linux_command/process/ps" >}})
+ - [find]({{< relref "/linux_command/text/find" >}})
+ - [xargs]({{< relref "/linux_command/text/xargs" >}}) 

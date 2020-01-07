@@ -1,6 +1,7 @@
 blog
 
-theme: https://github.com/alex-shpak/hugo-book
+
+使用的主题: https://github.com/alex-shpak/hugo-book
 
 
 ```
