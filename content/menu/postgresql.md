@@ -14,5 +14,5 @@ bookMenuLevels: 0
  - [并行查询]({{< relref "/postgresql/并行查询" >}})
  - [事务与并发控制]({{< relref "/postgresql/事务与并发控制" >}})
  - [分区表]({{< relref "/postgresql/分区表" >}})
-
+ - [性能优化]({{< relref "/postgresql/性能优化" >}})
 
