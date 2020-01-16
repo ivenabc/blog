@@ -15,3 +15,4 @@ bookMenuLevels: 0
 - [Tar]({{< relref "/golang/pkg_tar" >}})
 - [IO]({{< relref "/golang/pkg_io" >}})
 - [BufIO]({{< relref "/golang/pkg_bufio" >}})
+- [Testing]({{< relref "/golang/pkg_testing" >}})

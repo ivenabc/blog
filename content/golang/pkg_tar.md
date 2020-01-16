@@ -45,7 +45,7 @@ func main1() {
 	tw = tar.NewWriter(f)
 	defer tw.Close()
 
-	source := "/Users/wubin/workspace/gowork/src/github.com/ivenabc/e-commerce/"
+	source := "/Users/iven/workspace/gowork/src/github.com/ivenabc/e-commerce/"
 
 	baseDir := ""
 	fi, _ := os.Stat(source)
