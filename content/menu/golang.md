@@ -16,3 +16,5 @@ bookMenuLevels: 0
 - [IO]({{< relref "/golang/pkg_io" >}})
 - [BufIO]({{< relref "/golang/pkg_bufio" >}})
 - [Testing]({{< relref "/golang/pkg_testing" >}})
+- [Http]({{< relref "/golang/pkg_net_http" >}})
+- [Url]({{< relref "/golang/pkg_net_url" >}})
