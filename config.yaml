@@ -14,7 +14,7 @@ baseURL: https://www.hellobin.top/
 # languageCode: "zh-CN"
 title: 兔儿跑
 theme: book
-disableKinds: ['taxonomy', 'taxonomyTerm']
+# disableKinds: ['taxonomy', 'taxonomyTerm']
 
 # Book configuration
 disablePathToLower: true
